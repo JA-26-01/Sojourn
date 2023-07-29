@@ -2,7 +2,6 @@ beautifulsoup4==4.12.2
 matplotlib==3.7.2
 numpy==1.25.1
 pandas==2.0.3
-Pillow==9.5.0
 Pillow==10.0.0
 plotly==5.15.0
 Requests==2.31.0
