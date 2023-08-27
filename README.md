@@ -11,7 +11,7 @@ seacrh for famous tourist spots all over India, and see what other tourists say 
 You can try out the demo application at <a href="https://sojourn-fbmkb2ecngwii6afg7uwsc.streamlit.app/" target="_blank">here</a>
 <br>
 
-The main algorithm used for recommendation is **Content-Based Filtering**, which is aimed to find the similarity between the two entities. Here, the similarity score is calculated basee=d 
+The main algorithm used for recommendation is **Content-Based Filtering**, which is aimed to find the similarity between the two entities. Here, the similarity score is calculated based 
 on 3 main indexdes - location, name of the spot and concatenated reviews posted by others tourists. Since the dataset used did not contain the images of the desired places, image scraping using "requests" has been performeed.
 
 The base app, as of now, includes two main features:
